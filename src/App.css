@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  
+}
+h1{
+  background-color: #e9ecef;
+  color: #41464b;
+
+}
+.list{
+  
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(203 203 203);
+}
+.userList{
+  width: 50%;
+  margin: auto;
+  
+}
